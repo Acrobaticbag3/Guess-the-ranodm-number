@@ -1,0 +1,20 @@
+pseudokod
+create random numbergenerator randomNumber
+
+create number variable computerNumber and set value to random number from 1-100
+create number variable attempts and set value 0
+
+ask the user to guess computerNumber
+create number variable playerGuess set value to 0
+
+while value of player guess isen't equal to computerNumber
+    convert user input to new value for playerGuess, than stor that value 
+    
+    if playerGuess is higher than computerNumber
+        output Number is to high
+    else if playerGuess is less than computerNumber
+        outout Number is to low
+    attempts value +1 every time the user guesses wrong
+
+if playerGuess is equal to computerNumber
+    output You got it right!

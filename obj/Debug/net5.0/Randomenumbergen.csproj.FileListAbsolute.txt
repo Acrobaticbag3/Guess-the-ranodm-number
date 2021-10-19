@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Randomenumbergen\bin\Debug\net5.0\Randomenumbergen.exe
+C:\Users\Admin\Desktop\Randomenumbergen\bin\Debug\net5.0\Randomenumbergen.deps.json
+C:\Users\Admin\Desktop\Randomenumbergen\bin\Debug\net5.0\Randomenumbergen.runtimeconfig.json
+C:\Users\Admin\Desktop\Randomenumbergen\bin\Debug\net5.0\Randomenumbergen.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Randomenumbergen\bin\Debug\net5.0\Randomenumbergen.dll
+C:\Users\Admin\Desktop\Randomenumbergen\bin\Debug\net5.0\ref\Randomenumbergen.dll
+C:\Users\Admin\Desktop\Randomenumbergen\bin\Debug\net5.0\Randomenumbergen.pdb
+C:\Users\Admin\Desktop\Randomenumbergen\obj\Debug\net5.0\Randomenumbergen.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Randomenumbergen\obj\Debug\net5.0\Randomenumbergen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Randomenumbergen\obj\Debug\net5.0\Randomenumbergen.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Randomenumbergen\obj\Debug\net5.0\Randomenumbergen.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Randomenumbergen\obj\Debug\net5.0\Randomenumbergen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Randomenumbergen\obj\Debug\net5.0\Randomenumbergen.dll
+C:\Users\Admin\Desktop\Randomenumbergen\obj\Debug\net5.0\ref\Randomenumbergen.dll
+C:\Users\Admin\Desktop\Randomenumbergen\obj\Debug\net5.0\Randomenumbergen.pdb
+C:\Users\Admin\Desktop\Randomenumbergen\obj\Debug\net5.0\Randomenumbergen.genruntimeconfig.cache
